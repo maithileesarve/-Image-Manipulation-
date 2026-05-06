@@ -1,2 +1,22 @@
-# -Image-Manipulation-
-Developed a web application allowing users to upload images and apply various processing techniques. Technology &amp; Tools: Python, Flask, OpenCV, HTML, CSS, JavaScript Responsibilities: Built backend with Flask for image upload &amp; processing, used OpenCV for filters, designed interactive frontend with previews, and enabled image export/download.
+# Image Manipulation Flask App
+
+## 🚀 Overview
+A Flask-based web application that allows users to upload images and apply image processing operations using Python (PIL).
+
+## ✨ Features
+- Upload images
+- Apply filters (blur, sharpen, etc.)
+- Processed images saved automatically
+- Simple web interface
+
+## 🛠️ Tech Stack
+- Python
+- Flask
+- Pillow (PIL)
+- HTML, CSS
+
+## ▶️ How to Run
+
+```bash
+pip install flask pillow
+python image_processing_app.py
